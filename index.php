@@ -12,7 +12,7 @@
 		else{
 			header('location:user/');
 		}
-	}
+	}    //erwewrrawretwtr
 ?>
 <body>
 <div class="container">
