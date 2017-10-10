@@ -6,7 +6,7 @@
 		$data = stripslashes($data);
 		$data = htmlspecialchars($data);
 		return $data;
-	}
+	}              //few
 	
 	if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		$username=check_input($_POST['username']);
