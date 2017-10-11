@@ -1,9 +1,9 @@
 <!-- Navigation -->
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom: 0">
             <div class="navbar-header">
-				<a class="navbar-brand" href="https://www.sourcecodester.com/user/224918/track">SourceCodester || POS and Inventory System</a>
+				<a class="navbar-brand" href="https://www.seersol.com/">Seersol POS and Inventory System</a>
             </div>
-           
+
             <ul class="nav navbar-top-links navbar-right">
                 <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
@@ -13,7 +13,7 @@
 						<li><a href="#account" data-toggle="modal"><span class="glyphicon glyphicon-lock"></span>  My Account</a></li>
 						<li class="divider"></li>
                         <li><a href="#logout" data-toggle="modal"><i class="fa fa-sign-out fa-fw"></i> Logout</a></li>
-                    </ul>   
+                    </ul>
                 </li>
             </ul>
 

@@ -1,9 +1,9 @@
 <!-- Navigation -->
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom: 0">
             <div class="navbar-header">
-                <a class="navbar-brand" href="https://www.sourcecodester.com/user/224918/track">SourceCodester || POS and Inventory System</a>
+                <a class="navbar-brand" href="https://www.seersol.com/">Seersol POS and Inventory System</a>
             </div>
-			
+
 			<ul class=" nav navbar-nav">
 				<li id="cartme" style="cursor:pointer">
                    <a id="cart_control"><i class="fa fa-shopping-cart fa-fw"></i> My Cart</a>
@@ -20,7 +20,7 @@
 					</form>
 				</li>
 			</ul>
-			
+
             <ul class="nav navbar-top-links navbar-right">
 				<li class="dropdown">
 					<a class="dropdown-toggle" data-toggle="dropdown" href="#">
@@ -36,9 +36,9 @@
 								<li><a href="plist.php?cat=<?php echo $catrow['categoryid']; ?>"><?php echo $catrow['category_name']; ?></a></li>
 								<?php
 							}
-						
+
 						?>
-                    </ul> 
+                    </ul>
                 </li>
                 <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">
@@ -50,7 +50,7 @@
 						<li><a href="#profile" data-toggle="modal"><span class="glyphicon glyphicon-user"></span>  My Profile</a></li>
 						<li class="divider"></li>
                         <li><a href="#logout" data-toggle="modal"><i class="fa fa-sign-out fa-fw"></i> Logout</a></li>
-                    </ul>   
+                    </ul>
                 </li>
             </ul>
         </nav>
