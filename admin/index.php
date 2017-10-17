@@ -7,7 +7,7 @@
 <div id="page-wrapper">
 <div class="container-fluid">
 <div style="height:40px;"></div>
-	<img src="../upload/cover.jpg" class="thumbnail" style="height:430px; width:1030px;">
+	<img src="../upload/macbook.jpg" class="thumbnail" style="height:430px; width:930px; ">
 </div>
 </div>
 </div>
